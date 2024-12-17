@@ -167,3 +167,5 @@ Restart your environment/kernel after updating the packages.
 ---
 
 Feel free to update this README with further details, such as dataset links, training results, and specific implementation notes! 🚀
+
+My Medium post: https://medium.com/@mal_mamun/introduction-to-the-project-ac7c06222e5a
